@@ -14,4 +14,4 @@ ___
 Esay-Cheat V1.0版本正式开始测试
 ___
 
-Current latest version:V1.1
+Current latest version:V1.2
