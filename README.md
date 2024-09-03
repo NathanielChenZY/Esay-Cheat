@@ -1,6 +1,12 @@
 # Red_Bear日志
 
 ### 更新日志：
+2024/8/22更新版本V1.2.1
+
+❌移除：自动扳机（优化ing）
+➕新增：瞄准平滑选项
+___
+
 2024/8/22更新版本V1.2
 
 ➕新增：自动扳机
@@ -16,7 +22,7 @@ ___
 
 2024/8/18发布：
 
-Read_Bear V1.0版本正式开始测试
+Read_Bear V1.0版本正式
 ___
 
-Current latest version:V1.2
+Current latest version:V1.2.1
