@@ -30,4 +30,4 @@ ___
 Read_Bear V1.0版本正式
 ___
 
-Current latest version:V1.2.1
+Current latest version:V1.2.2
